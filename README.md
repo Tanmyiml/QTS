@@ -1,3 +1,3 @@
 # QTS
-Quant Trading System work
+Quant Trading System works
 
